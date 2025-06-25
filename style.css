@@ -96,7 +96,7 @@ main{
 }
 .message {
   max-width: 672px;
-  margin:0 auto o auto;
+  margin:0 auto 0 auto;
   padding:32px;
   color:#757575;
 }
